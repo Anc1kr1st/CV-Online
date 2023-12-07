@@ -71,7 +71,7 @@
 
 .mid{
     display: grid;
-    grid-template-columns: 2fr 4fr;
+    grid-template-columns: 2fr 2fr 2fr;
 }
 .left{
     position: initial;
@@ -90,7 +90,7 @@
     color: rgb(230, 217, 217);
 }
 
-.right{
+.skills{
     width: 25%;
     height: 75%;
     padding: 5%;
@@ -102,6 +102,22 @@
     box-shadow: 5px 10px grey;
     background-color: rgb(104, 9, 9);
     color: rgb(230, 217, 217);
+    line-height: 1.6;
+}
+.languages{
+    position: initial;
+    width: 25%;
+    height: 75%;
+    padding: 5%;
+    position: relative;
+    left: 25%;
+    top: 15%;
+    border: 5px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 10px grey;
+    background-color: rgb(104, 9, 9);
+    color: rgb(230, 217, 217);
+    line-height: 1.6;
 }
 .skills h3{
     font-size: 25px;
