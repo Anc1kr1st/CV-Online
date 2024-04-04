@@ -78,8 +78,8 @@
     color: rgb(230, 217, 217);
 }
 .skills{
-    width: 270px;
-    height: 310px;
+    width: 50%;
+  /*  height: ;*/
     padding-top: 15px;
     padding-right: 30px;
     padding-left: 35px;
@@ -96,7 +96,7 @@
 }
 .languages{
     position: initial;
-    width: 150px;
+    width: 40%;
     height: 220px;
     padding-right: 30px;
     padding-left: 35px;
